@@ -9,7 +9,7 @@ import android.widget.ImageView;
 
 public class TalkingNinjaActivity extends Activity {
     /** Called when the activity is first created. */
-    @Override
+
    ImageView animation;
 	
     @Override
