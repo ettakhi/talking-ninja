@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+	android:oneshot="false">"
+	<item android:drawable="@drawable/kenstance00000" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00001" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00002" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00003" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00004" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00005" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00006" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00007" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00008" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00009" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00010" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00011" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00012" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00013" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00014" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00015" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00016" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00017" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00018" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00019" android:duration="50" />
+	<item android:drawable="@drawable/kenstance00020" android:duration="50" />
+</animation-list>
