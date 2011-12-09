@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    >
-
-<ImageView android:layout_height="wrap_content"
-		android:layout_width="wrap_content" android:id="@+id/imageAnimation"
+    android:weightSum="1" android:orientation="vertical">
+    <ImageView android:adjustViewBounds="true" android:id="@+id/kenstance" android:layout_height="146dp" android:layout_weight="0.25" android:layout_width="210dp"></ImageView>
+	<Button android:text="@string/test" android:onClick="blendFace" android:id="@+id/button_id" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+	<ImageView android:layout_height="wrap_content"
+		android:layout_width="wrap_content" android:id="@+id/kenrndhouse" 
 		android:adjustViewBounds="true" 
 	/>
-	<TextView  
-    android:layout_width="fill_parent" 
-    android:layout_height="wrap_content" 
-    android:text="@string/hello"
-    />
+    
+     
 </LinearLayout>
