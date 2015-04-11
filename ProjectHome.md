@@ -1,0 +1,1 @@
+Depending on what is touched on the screen, Ninja reacts accordingly.
